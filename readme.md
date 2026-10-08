@@ -220,6 +220,7 @@
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
+- [Rust Migrations](https://github.com/kevincouton/awesome-rust-migrations#readme) - Rewriting existing codebases in Rust and eliminating memory-safety vulnerabilities.
 - [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
